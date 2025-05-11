@@ -10,7 +10,7 @@ This is a simple and interactive **Gradient Background Generator** built using *
 
 ## 🚀 Features
 
--🎲 Generates random colors for .
+- 🎲 Generates random colors for .
 - 🎨 Real-time preview of gradient background.
 - 📋 One-click copy of the CSS gradient code.
 - ✨ Stylish and responsive design.
