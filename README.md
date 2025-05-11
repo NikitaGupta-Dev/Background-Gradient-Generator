@@ -5,16 +5,16 @@ This is a simple and interactive **Gradient Background Generator** built using *
 
 ## 🔗 Live Demo
 
-👉 [Click here to view the live site](https://your-username.github.io/spotify-clone/)  
+👉 [Click here to view the live site](https://nikitagupta-dev.github.io/Background-Gradient-Generator/)  
 
 
 ## 🚀 Features
 
-- 🎲 Random color generation for left and right gradient stops.
+-🎲 Generates random colors for .
 - 🎨 Real-time preview of gradient background.
 - 📋 One-click copy of the CSS gradient code.
 - ✨ Stylish and responsive design.
-
+-🎨 Save and share gradient codes 
 
 
 ## 🛠️ Technologies Used
