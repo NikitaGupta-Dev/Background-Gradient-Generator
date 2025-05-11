@@ -14,7 +14,7 @@ This is a simple and interactive **Gradient Background Generator** built using *
 - 🎨 Real-time preview of gradient background.
 - 📋 One-click copy of the CSS gradient code.
 - ✨ Stylish and responsive design.
--🎨 Save and share gradient codes 
+- 🎨 Save and share gradient codes 
 
 
 ## 🛠️ Technologies Used
